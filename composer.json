@@ -1,0 +1,23 @@
+{
+  "name": "jameelmoses/facetwp-event-date",
+  "version": "1.0.0",
+  "description": "Custom facet type for FacetWP to filter by upcoming vs. past events",
+  "keywords": [
+    "WP",
+    "FacetWP",
+    "WordPress",
+    "Facet",
+    "Event Date"
+  ],
+  "homepage": "https://github.com/jameelmoses/facet-future-past",
+  "authors": [{
+    "name": "Jameel Moses",
+    "email": "jameelmoses@gmail.com",
+    "homepage": "https://github.com/jameelmoses"
+  }],
+  "type": "wordpress-plugin",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7"
+  }
+}
